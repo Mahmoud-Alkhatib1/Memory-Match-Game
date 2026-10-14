@@ -1,8 +1,8 @@
+![Memory Match Game](cover.jpeg)
+
 # 🎮 Memory Match Game
 
 A classic memory game built with **C#** and **Windows Forms** — test your observation and concentration skills!
-
-![Main Menu](screenshot-main.png)
 
 ---
 
@@ -32,19 +32,6 @@ A classic memory game built with **C#** and **Windows Forms** — test your obse
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Main Menu
-![Main Menu](screenshot-main.png)
-
-### 🎯 Gameplay
-![Gameplay](screenshot-game.png)
-
-### 🏆 Victory
-![Victory](screenshot-win.png)
-
----
-
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -60,43 +47,14 @@ A classic memory game built with **C#** and **Windows Forms** — test your obse
 
 ## 🚀 How to Run
 
-### Prerequisites
-- **Visual Studio 2022** (or newer)
-- **.NET Framework 4.7.2** (or newer)
-
-### Steps
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Mahmoud-Alkhatib1/Memory-Match-Game.git
    ```
 
-2. **Open the solution:**
-   ```
-   Project.sln
-   ```
+2. **Open `Project.sln` in Visual Studio**
 
-3. **Build and run:**
-   - Press `F5` in Visual Studio
-   - Or: `Build` → `Start Debugging`
-
----
-
-## 📂 Project Structure
-
-```
-Memory-Match-Game/
-├── Image/              # Game images
-├── Sound/              # Sound effects
-├── Properties/         # Project settings
-├── Resources/          # Additional resources
-├── BaseForm.cs         # Base class for all forms
-├── Form1.cs            # Main menu
-├── FormEasy.cs         # Easy level
-├── FormInterMediate.cs # Intermediate level
-├── FormHard.cs         # Hard level
-├── SoundHelper.cs      # Sound manager
-└── Program.cs          # Entry point
-```
+3. **Press `F5` to run**
 
 ---
 
@@ -107,7 +65,6 @@ Memory-Match-Game/
 - ✅ **Event handling** in WinForms
 - ✅ **Timers** management
 - ✅ **Code organization** across multiple files
-- ✅ **Problem solving** and logical thinking
 
 ---
 
@@ -122,12 +79,6 @@ Memory-Match-Game/
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-Special thanks to everyone who supported me during this learning journey.
 
 ---
 
